@@ -1,0 +1,3 @@
+/home/acs/workingspace/yxcmuduo/build/CMakeFiles/rebuild_cache.dir
+/home/acs/workingspace/yxcmuduo/build/CMakeFiles/yxcmuduo.dir
+/home/acs/workingspace/yxcmuduo/build/CMakeFiles/edit_cache.dir
